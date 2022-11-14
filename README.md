@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Barrak</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🔭 I’m currently working on **42 Cursus**
+<div align="center">
+  <a href="https://github.com/hbarrak7/hbarrak7">
+  <img src="https://badge.mediaplus.ma/greenbinary/hbarrak" alt="hbarrak's 42 stats" /> 
+  </a>
+</div>
+
+- 🔭 I’m currently working on **42 Cursus** 
 
 - 🌱 I’m currently learning **C, Python, Data Science, and statistics**
 
